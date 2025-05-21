@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Defalt-XD
 - 👀 I’m interested in ...software developement and scripting 
-- 🌱 I’m currently learning ...computer vision
+- 🌱 I’m currently learning ...Red Teaming
 - 💞️ I’m looking to collaborate on ...computer vision and backend projects in python
 - 📫 How to reach me ...umafia507@gamil.com
 - 😄 Pronouns: ...XD
