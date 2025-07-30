@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Defalt-XD
+- 👋 Hi, I’m sanwal bilal
 - 👀 I’m interested in ...software developement and scripting 
 - 🌱 I’m currently learning ...Red Teaming
 - 💞️ I’m looking to collaborate on ...computer vision and backend projects in python
