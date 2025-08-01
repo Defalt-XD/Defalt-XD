@@ -37,7 +37,7 @@
   [View Repository](#) <!-- Add your repo link here -->
 - **Spam Email classifier (web App)**  
   _Website for classifying the spam emails built with django and AI_  
-  [View Repository](#) <!--
+  [View Repository](#) 
 ---
 
 ## ✨ About Me
