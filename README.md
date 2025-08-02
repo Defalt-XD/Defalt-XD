@@ -22,22 +22,26 @@
 
 - **PPE Detection System**  
   _AI-powered safety gear detection using Flask + PyTorch_  
-  [View Repository](#) <!-- Add your repo link here -->
+  [View Repository](https://github.com/Defalt-XD/ML-PPE-Model) <!-- Add your repo link here -->
 
 - **University Bus Tracking Website**  
   _Real-time tracking platform built with Django_  
-  [View Repository](#) <!-- Add your repo link here -->
+  [View Repository](https://github.com/Defalt-XD/bus-tracking-website-) <!-- Add your repo link here -->
 
 - **E-Commerce Website**  
   _Full-stack online shopping platform_  
-  [View Repository](#) <!-- Add your repo link here -->
+  [View Repository](https://github.com/Defalt-XD/estatePro-web-application) <!-- Add your repo link here -->
 
 - **Gesture Guard (Android App)**  
   _Health-gesture recognition app developed in Flutter_  
-  [View Repository](#) <!-- Add your repo link here -->
+  [View Repository](https://github.com/Defalt-XD/gesture-guard-flutter-app) <!-- Add your repo link here -->
 - **Spam Email classifier (web App)**  
   _Website for classifying the spam emails built with django and AI_  
-  [View Repository](#) 
+  [View Repository](https://github.com/Defalt-XD/Spam--Email--classifier) 
+---
+- **Flora the Explora (game)**  
+  _Game by python and pygame,using oop concepts_  
+  [View Repository](https://github.com/Defalt-XD/flora-the-explora) 
 ---
 
 ## ✨ About Me
